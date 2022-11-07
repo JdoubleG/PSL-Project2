@@ -16,9 +16,7 @@ November 14, 2022
 
 ### **Discussion**:
 
-### **Linear Regression - Elastic Net**:
-
-System specifications:
+### **Benchmarks**:
 
 |                      |                                        |
 |----------------------|----------------------------------------|
