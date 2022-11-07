@@ -1,31 +1,35 @@
-# __CS 598 Practical Statistical Learning__
-### __Project 2: Walmart Store Sales Forcasting__
+# **CS 598 Practical Statistical Learning**
+
+### **Project 2: Walmart Store Sales Forcasting**
+
+### James Garijo-Garde (jamesig2)
 
 November 14, 2022
 
-### __Introduction__:
+### **Introduction**:
 
-### __Pre-Processing__:
+### **Pre-Processing**:
 
-### __Model Approaches__:
+### **Model Approaches**:
 
 ### Naive Model
 
-### __Discussion__:
+### **Discussion**:
 
-### __Linear Regression - Elastic Net__:
+### **Linear Regression - Elastic Net**:
 
 System specifications:
 
-|   |    |
-| --- | --- |
-| System | Framework Laptop |
-|	CPU | Intel i7 1260P, 12 cores (16 logical) @ 2.5 GHz |
-| GPU | AMD Radeon RX 6600, Thunderbolt 3 eGPU |
-| Memory | 16 GB DDR-4 @ 3200 MHz |
-| Storage | Seagate FireCuda 530, PCIe gen. 4 NVMe, 1 TB |
-| OS | Microsoft Windows 11 Education |
-| R Version | 4.2.1 |
-| Final Model Runtime | TODO |
+|                      |                                        |
+|----------------------|----------------------------------------|
+| System               | Framework Laptop                       |
+| CPU                  | Intel i7 1260P, 12 cores \@ 2.5 GHz    |
+| GPU                  | AMD Radeon RX 6600, Thunderbolt 3 eGPU |
+| Memory               | 16 GB DDR4 \@ 3200 MHz                 |
+| Storage              | Seagate FireCuda 530 SSD, 1 TB         |
+| OS                   | Microsoft Windows 11 Education         |
+| R Version            | 4.2.1                                  |
+| Final Model Run time | TODO                                   |
+| Final Model Score    | TODO                                   |
 
-### __Discussion__
+### **Discussion**
