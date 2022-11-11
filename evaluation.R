@@ -8,9 +8,14 @@ test <- readr::read_csv('test.csv')
 num_folds <- 10
 wae <- rep(0, num_folds)
 
+elapsed = 0
+
 for (t in 1:num_folds) {
+  start = proc.time()
   # *** THIS IS YOUR PREDICTION FUNCTION ***
   test_pred <- mypredict()
+  end = proc.time()
+  elapsed = elapsed + (end - start)
   
   # read new data from fold_t 
   fold_file <- paste0('fold_', t, '.csv')
@@ -34,3 +39,6 @@ for (t in 1:num_folds) {
 
 print(wae)
 mean(wae)
+
+print("Elapsed Time:")
+print(elapsed)
